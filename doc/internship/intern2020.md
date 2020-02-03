@@ -36,7 +36,7 @@ Food-101 データセット
 
 ## 準備
 - [kaggle](./kaggle.html)
-- [SONY NNC](./nnc.html)
+- [SONY NNC](./sony_nnc.html)
 - [その他](./kaggle.html)
 
 ## まずはやってみよう！
