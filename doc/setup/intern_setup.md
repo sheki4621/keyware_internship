@@ -11,13 +11,6 @@ GUIでニューラルネットワークを構築可能なソフトウェア。�
 - kaggle(inClassで競うため)
 - sony(Nueral Network Console利用のため)
 
-### 利用想定アカウント一覧
-
-|No  |Gmail  |sony  |kaggle |
-|---|---|---|---|
-|1  |2  |3  |1 |
-|2  |5  |6  |1 |
-
 ## データセット
 Food-101を利用。以下のリンクからダウンロード。サイズが大きいので気を付けること。  
 [Food-101 download](https://www.vision.ee.ethz.ch/datasets_extra/food-101/)
